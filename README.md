@@ -764,6 +764,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dwight Watson](https://www.neontsunami.com/) \[07/12/2016\]
 - [Eagle Peak Consulting](https://www.eaglepeakweb.com/blog) \[07/26/2018\]
 - [EasyLara](http://www.easylara.com/)
+- [PHPCodingStuff](https://www.phpcodingstuff.com/category/laravel-7-tutorial.html)
 - [Edvinas Krucas](http://blog.krucas.lt/category/laravel/) \[10/06/2015\]
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
 - [El Coderino](http://www.elcoderino.com/)
